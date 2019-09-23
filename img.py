@@ -12,5 +12,4 @@ def img2vector(filename):
 
 print(img2vector('testDigits/0_13.txt')[0,32:63])
 
-
-print
+sasadad
