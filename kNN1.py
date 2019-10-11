@@ -31,5 +31,5 @@ def classify(inX, dataSet, labels, k):
     return sortedClassCount[0][0]
 
 
-group, labels = createDataSet()
-print(classify([0, 0], group, labels, k=3))
+# group, labels = createDataSet()
+# print(classify([0, 0], group, labels, k=3))
